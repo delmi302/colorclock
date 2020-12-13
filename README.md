@@ -2,7 +2,7 @@
 
 Hello!
 
-This is CodeBerry's Color Clock project.
+This is my Color Clock project.
 
 You can look at the finished website here:
 
@@ -12,7 +12,7 @@ https://delmi302.github.io/colorclock/
 
 Helló!
 
-Ez a CodeBerry Színóra feladata.
+Ez az én Színóra feladatom.
 
 A kész oldalt itt tudod megnézni élőben:
 
